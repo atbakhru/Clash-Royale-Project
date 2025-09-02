@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Hog Rider",
+    "type": "Troop",
+    "elixirCost": 4,
+    "role": "WinCondition",
+    "rarity": "Rare",
+    "imageUrl": "/images/cards/hog_rider.png"
+  },
+  {
+    "name": "Fireball",
+    "type": "Spell",
+    "elixirCost": 4,
+    "role": "BigSpell",
+    "rarity": "Rare",
+    "imageUrl": "/images/cards/fireball.png"
+  },
+  {
+    "name": "Cannon",
+    "type": "Building",
+    "elixirCost": 3,
+    "role": "Defense",
+    "rarity": "Common",
+    "imageUrl": "/images/cards/cannon.png"
+  },
+  {
+    "name": "Ice Spirit",
+    "type": "Troop",
+    "elixirCost": 1,
+    "role": "Cycle",
+    "rarity": "Common",
+    "imageUrl": "/images/cards/ice_spirit.png"
+  },
+  {
+    "name": "Archers",
+    "type": "Troop",
+    "elixirCost": 3,
+    "role": "Support",
+    "rarity": "Common",
+    "imageUrl": "/images/cards/archers.png"
+  },
+  {
+    "name": "The Log",
+    "type": "Spell",
+    "elixirCost": 2,
+    "role": "SmallSpell",
+    "rarity": "Legendary",
+    "imageUrl": "/images/cards/the_log.png"
+  },
+  {
+    "name": "Skeletons",
+    "type": "Troop",
+    "elixirCost": 1,
+    "role": "Cycle",
+    "rarity": "Common",
+    "imageUrl": "/images/cards/skeletons.png"
+  },
+  {
+    "name": "Tesla",
+    "type": "Building",
+    "elixirCost": 4,
+    "role": "Defense",
+    "rarity": "Common",
+    "imageUrl": "/images/cards/tesla.png"
+  },
+  { 
+    "name": "Mega Minion",
+    "type": "Troop",
+    "elixirCost": 3,
+    "role": "Support",
+    "rarity": "Rare",
+    "imageUrl": "/images/cards/mega_minion.png"
+  },
+  {
+    "name": "Royal Giant",
+    "type": "Troop",
+    "elixirCost": 6,
+    "role": "WinCondition",
+    "rarity": "Common",
+    "imageUrl": "/images/cards/royal_giant.png"
+  },
+  {
+    "name": "Giant",
+    "type": "Troop",
+    "elixirCost": 5,
+    "role": "WinCondition",
+    "rarity": "Rare",
+    "imageUrl": "/images/cards/giant.png"
+  },
+  {
+    "name": "Balloon",
+    "type": "Troop",
+    "elixirCost": 5,
+    "role": "WinCondition",
+    "rarity": "Epic",
+    "imageUrl": "/images/cards/balloon.png"
+  },
+  {
+    "name": "Goblin Barrel",
+    "type": "Spell",
+    "elixirCost": 3,
+    "role": "WinCondition",
+    "rarity": "Epic",
+    "imageUrl": "/images/cards/goblin_barrel.png"
+  },
+  {
+    "name": "Miner",
+    "type": "Troop",
+    "elixirCost": 3,
+    "role": "WinCondition",
+    "rarity": "Legendary",
+    "imageUrl": "/images/cards/miner.png"
+  },
+  {
+    "name": "X-Bow",
+    "type": "Building",
+    "elixirCost": 6,
+    "role": "WinCondition",
+    "rarity": "Epic",
+    "imageUrl": "/images/cards/x_bow.png"
+  },
+  {
+    "name": "Mortar",
+    "type": "Building",
+    "elixirCost": 4,
+    "role": "WinCondition",
+    "rarity": "Common",
+    "imageUrl": "/images/cards/mortar.png"
+  },
+  {
+    "name": "Graveyard",
+    "type": "Spell",
+    "elixirCost": 5,
+    "role": "WinCondition",
+    "rarity": "Legendary",
+    "imageUrl": "/images/cards/graveyard.png"
+  },
+  {
+    "name": "Golem",
+    "type": "Troop",
+    "elixirCost": 8,
+    "role": "WinCondition",
+    "rarity": "Legendary",
+    "imageUrl": "/images/cards/golem.png"
+  },
+  {
+    "name": "Lava Hound",
+    "type": "Troop",
+    "elixirCost": 7,
+    "role": "WinCondition",
+    "rarity": "Legendary",
+    "imageUrl": "/images/cards/lava_hound.png"
+  },
+  {
+    "name": "Elite Barbarians",
+    "type": "Troop",
+    "elixirCost": 6,
+    "role": "WinCondition",
+    "rarity": "Common",
+    "imageUrl": "/images/cards/elite_barbarians.png"
+  },
+  {
+    "name": "P.E.K.K.A",
+    "type": "Troop",
+    "elixirCost": 7,
+    "role": "WinCondition",
+    "rarity": "Epic",
+    "imageUrl": "/images/cards/pekka.png"
+  },
+  {
+    "name": "Mini P.E.K.K.A",
+    "type": "Troop",
+    "elixirCost": 4,
+    "role": "Tank Killer",
+    "rarity": "Rare",
+    "imageUrl": "/images/cards/mini_pekka.png"
+  },
+  {
+    "name": "Musketeer",
+    "type": "Troop",
+    "elixirCost": 4,
+    "role": "Support",
+    "rarity": "Rare",
+    "imageUrl": "/images/cards/musketeer.png"
+  },
+  {
+    "name": "Valkyrie",
+    "type": "Troop",
+    "elixirCost": 4,
+    "role": "Tank",
+    "rarity": "Rare",
+    "imageUrl": "/images/cards/valkyrie.png"
+  },
+  {
+    "name": "Arrows",
+    "type": "Spell",
+    "elixirCost": 3,
+    "role": "SmallSpell",
+    "rarity": "Common",
+    "imageUrl": "/images/cards/arrows.png"
+  },
+  {
+    "name": "Rocket",
+    "type": "Spell",
+    "elixirCost": 6,
+    "role": "BigSpell",
+    "rarity": "Rare",
+    "imageUrl": "/images/cards/rocket.png"
+  },
+  {
+    "name": "Skeleton Army",
+    "type": "Troop",
+    "elixirCost": 3,
+    "role": "Swarm",
+    "rarity": "Epic", 
+    "imageUrl": "/images/cards/skeleton_army.png"
+  },
+  {
+    "name": "Baby Dragon",
+    "type": "Troop",
+    "elixirCost": 4,
+    "role": "Support",
+    "rarity": "Epic",
+    "imageUrl": "/images/cards/baby_dragon.png"
+  },
+  {
+    "name": "Prince",
+    "type": "Troop",
+    "elixirCost": 5,
+    "role": "WinCondition",
+    "rarity": "Epic",
+    "imageUrl": "/images/cards/prince.png"
+  },
+  {
+    "name": "Witch",
+    "type": "Troop",
+    "elixirCost": 5,
+    "role": "Support",
+    "rarity": "Epic",
+    "imageUrl": "/images/cards/witch.png"
+  },
+  {
+    "name": "Electro Wizard",
+    "type": "Troop",
+    "elixirCost": 4,
+    "role": "Support",
+    "rarity": "Legendary",
+    "imageUrl": "/images/cards/electro_wizard.png"
+  },
+  {
+    "name": "Ice Wizard",
+    "type": "Troop",
+    "elixirCost": 3,
+    "role": "Support",
+    "rarity": "Legendary",
+    "imageUrl": "/images/cards/ice_wizard.png"
+  },
+  {
+    "name": "Princess",
+    "type": "Troop",
+    "elixirCost": 3,
+    "role": "Support",
+    "rarity": "Legendary",
+    "imageUrl": "/images/cards/princess.png"
+  },
+  {
+    "name": "Mega Knight",
+    "type": "Troop",
+    "elixirCost": 7,
+    "role": "WinCondition",
+    "rarity": "Legendary",
+    "imageUrl": "/images/cards/mega_knight.png"
+  },
+  {
+    "name": "Inferno Dragon",
+    "type": "Troop",
+    "elixirCost": 4,
+    "role": "Support",
+    "rarity": "Legendary",
+    "imageUrl": "/images/cards/inferno_dragon.png"
+  },
+  {
+    "name": "Bowler",
+    "type": "Troop",
+    "elixirCost": 5,
+    "role": "Support",
+    "rarity": "Epic",
+    "imageUrl": "/images/cards/bowler.png"
+  },
+  {
+    "name": "Inferno Tower",
+    "type": "Building",
+    "elixirCost": 5,
+    "role": "Defense",
+    "rarity": "Rare",
+    "imageUrl": "/images/cards/inferno_tower.png"
+  },
+  {
+    "name": "Bomb Tower",
+    "type": "Building",
+    "elixirCost": 4,
+    "role": "Defense",
+    "rarity": "Rare",
+    "imageUrl": "/images/cards/bomb_tower.png"
+  },
+  {
+    "name": "Goblin Cage",
+    "type": "Building",
+    "elixirCost": 4,
+    "role": "Defense",
+    "rarity": "Rare",
+    "imageUrl": "/images/cards/goblin_cage.png"
+  },
+  {
+    "name": "Archer Queen",
+    "type": "Troop",
+    "elixirCost": 5,
+    "role": "WinCondition",
+    "rarity": "Champion",
+    "imageUrl": "/images/cards/archer_queen.png"
+  },
+  {
+    "name": "Golden Knight",
+    "type": "Troop",
+    "elixirCost": 4,
+    "role": "WinCondition",
+    "rarity": "Champion",
+    "imageUrl": "/images/cards/golden_knight.png"
+  },
+  {
+    "name": "Skeleton King",
+    "type": "Troop",
+    "elixirCost": 4,
+    "role": "WinCondition",
+    "rarity": "Champion",
+    "imageUrl": "/images/cards/skeleton_king.png"
+  }
+]

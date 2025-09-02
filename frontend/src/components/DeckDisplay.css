@@ -1,0 +1,123 @@
+.deck-optimizer {
+    padding: 2rem;
+    color: white;
+}
+
+.deck-options {
+    text-align: right;
+    margin-bottom: 2rem;
+}
+
+.button-group {
+    display: inline-flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.button-group button {
+    padding: 0.5rem 1rem;
+    background: #1e2328;
+    color: #8a9199;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.button-group button.active {
+    background: #2b5993;
+    color: white;
+}
+
+.generate-button {
+    padding: 0.5rem 1.5rem;
+    background: #2b5993;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.deck-section h2 {
+    margin-bottom: 1.5rem;
+}
+
+.deck-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.card-container {
+    position: relative;
+    border-radius: 8px;
+    padding: 4px;
+    background: linear-gradient(to bottom, #2b5993, #1e2328);
+}
+
+.elixir-cost {
+    position: absolute;
+    top: -8px;
+    left: -8px;
+    width: 24px;
+    height: 24px;
+    background: #e644e6;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    z-index: 1;
+}
+
+.card {
+    background: #1e2328;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.card-name {
+    padding: 0.5rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+.card-tags {
+    display: flex;
+    gap: 0.5rem;
+    padding: 0.5rem;
+}
+
+.tag {
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.85rem;
+}
+
+.tag.primary {
+    background: #2b5993;
+}
+
+.tag.secondary {
+    background: #8b4513;
+}
+
+.average-elixir {
+    background: #1e2328;
+    padding: 1rem;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+}
+
+.role-breakdown {
+    background: #1e2328;
+    padding: 1rem;
+    border-radius: 4px;
+}
